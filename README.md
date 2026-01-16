@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **GraphQL and BlockChain**
+-  I’m currently learning **GraphQL and BlockChain**
 
-- 📫 How to reach me **ab877754@gmail.com**
+-  How to reach me **ab877754@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
