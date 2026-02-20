@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<p align="center">
-  <img src="space-shooter.gif" />
-</p>
+
 <h3 align="center">A passionate Full Stack Web-Developer from India</h3>
 
 
