@@ -4,7 +4,6 @@
 
 
 
--  I’m currently learning **GraphQL and BlockChain**
 
 -  How to reach me **ab877754@gmail.com**
 
